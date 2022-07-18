@@ -1,0 +1,81 @@
+body{
+margin-bottom: 0%;
+background-color: bisque;
+}
+.head{
+    color: rgb(80, 35, 20);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 900;
+    background-color: #FFC107;
+}
+.top{
+    background-color: bisque !important;
+    
+   
+}
+.cards{
+    background-color: bisque;
+    
+}
+.c2{
+    margin-top: 3rem;
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}
+.card{
+    margin-bottom:1rem;
+    margin-right: .002rem;
+}
+.burgerbutton{
+    border-color: red;
+    border-radius: 25px;
+    
+}
+   /* that annoying nav bar*/
+   .menu{
+    font-size: 1.2rem;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 900;
+    color:rgb(121, 76, 14) !important;
+   }
+.imgclass{
+    margin-top: -30px;
+    margin-left: 3rem;
+}
+.font{
+    font-weight: 900;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.phone{
+    padding-left: 25vw;
+    padding-top: 6vh;
+}
+.download{
+    padding-top: 20vh;
+    font-size: 3.6rem;
+    font-weight: 900;
+    @media screen {
+        
+    }
+}
+.small{
+    font-size: 10px;
+}
+.end{
+    background-color:rgb(43, 2, 0);
+   color: rgb(187, 163, 145);
+}
+.order ul {
+        list-style: none;
+}
+.special{
+    color: #F5EBDC;
+    padding-left: 2vw;
+    font-weight: 900;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 1.5rem;
+}
+.theHr{
+    border: 1px solid #F5EBDC;
+}
